@@ -1,0 +1,96 @@
+.img_header{
+  background-color: blue;
+  border:1px solid lightgrey;
+  display:flex;
+  padding-right:10px;
+  object-fit: contain;
+  top:80px;
+  position:relative;
+}
+
+.nav_bar{
+padding-left:10px;
+}
+
+.text_header{
+  font-size: 40px;
+  padding:0;
+  color:#fff;
+  margin-left:10px;
+  margin-right:0;
+  font-family: "Times New Roman";
+  font-style:italic;
+}
+
+.phone_no{
+  font-size:20px;
+  color:#000;
+  border:1px solid lightgrey;
+  margin:40px;
+  margin-top:10px;
+  font-style:italic;
+}
+
+.about{
+  font-size:15px;
+  color:#000;
+  font-style:italic;
+  margin-left:5px;
+}
+
+.quote{
+  font-size:12px;
+  margin-left:30px;
+  font-style:italic;
+}
+
+.gmail{
+  font-size:20px;
+  margin-left:20px;
+  font-style:none;
+}
+
+.b1{
+  border-radius:50px;
+  width:100px;
+  height:100px;
+  background-color:rgb(0,0,0);
+  color:white;
+  outline: none;
+}
+
+.head{
+  border-right:1px solid lightgrey;
+}
+
+
+/*button*/
+
+.offer{
+  top:30px;
+  position:relative;
+
+}
+
+.offer_button{
+  background-color:rgb(226, 245, 244);
+  padding:40px;
+}
+
+.ourResult{
+  padding:20px;
+  top:30px;
+  position:relative;
+}
+
+/*
+.stud_result{
+  display:flex;
+  margin:20px;
+}*/
+
+.Element{
+  top:100px;
+  position:relative;
+}
+
